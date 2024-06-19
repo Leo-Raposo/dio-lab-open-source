@@ -43,8 +43,6 @@
     <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
 </div>
 
 ###
